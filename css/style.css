@@ -109,4 +109,34 @@ nav li {
   width: 751px;
   font-size: 16px;
   line-height: 18.78px;
+  text-align: justify;
+}
+
+.skills-hobbies {
+  padding: 64px 0;
+  margin: 0 10%;
+}
+
+.skills-hobbies img {
+  height: 37px;
+  padding-bottom: 5px;
+}
+
+.skills-hobbies ul {
+  text-align: center;
+}
+
+.skills-hobbies li {
+  display: inline-block;
+  text-align: center;
+  width: 12%;
+  vertical-align: bottom;
+  margin: 0 1.5%;
+}
+
+.skills-hobbies p {
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: bold;
+  color: #464646;
 }
