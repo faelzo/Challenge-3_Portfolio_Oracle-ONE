@@ -39,6 +39,15 @@ nav li {
   padding-left: 20px;
 }
 
+nav a {
+  text-decoration: none;
+  color: #464646;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
 
 .menu-principal {
   margin: 0 10%;
